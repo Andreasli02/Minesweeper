@@ -33,7 +33,6 @@ component ui {
 }
 
 minesweeper.ui ..> minesweeper.core
-minesweeper.ui ..> minesweeper.server
 
 component javafx {
 	component fxml {

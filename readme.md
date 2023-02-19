@@ -1,3 +1,8 @@
+Minesweeper game I made in IT1901 Informatics, Project I with 3 others. The Minesweeper game is on the client, with highscores being saved to a server.
+
+<img width="887" alt="minesweeper" src="https://user-images.githubusercontent.com/89947900/219943558-ce07b9eb-71e5-494b-8b91-4c23a112f3a4.PNG">
+
+----
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.stud.ntnu.no/#https://gitlab.stud.idi.ntnu.no/it1901/groups-2022/gr2243/gr2243) 
 
 # Group gr2243 repository 
